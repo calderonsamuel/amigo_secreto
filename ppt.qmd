@@ -1,0 +1,70 @@
+---
+title: "Mi amix secretx"
+format: 
+    revealjs:
+        theme: solarized
+---
+
+## Pistas
+
+## Pistas
+
+:::: {.columns}
+
+::: {.column width="60%"}
+- Trabaja en DGCO
+:::
+
+::: {.column width="40%"}
+![](img/paso1.png)
+:::
+
+::::
+
+## Pistas
+
+:::: {.columns}
+
+::: {.column width="60%"}
+- Trabaja en DGCO
+- Es una persona chancona / académica. Siempre aprendes algo nuevo en una conversación
+:::
+
+::: {.column width="40%"}
+![](img/paso2.png)
+:::
+
+::::
+
+## Pistas
+
+:::: {.columns}
+
+::: {.column width="60%"}
+- Trabaja en DGCO
+- Es una persona chancona / académica. Siempre aprendes algo nuevo en una conversación
+- Es una persona bromista / graciosa
+:::
+
+::: {.column width="40%"}
+![](img/paso3.png)
+:::
+
+::::
+
+## Pistas
+
+:::: {.columns}
+
+::: {.column width="60%"}
+- Trabaja en DGCO
+- Es una persona chancona / académica. Siempre aprendes algo nuevo en una conversación
+- Es una persona bromista / graciosa
+- Es una persona bien meticulosa en los trabajos que realiza
+:::
+
+::: {.column width="40%"}
+![](img/paso4.png)
+:::
+
+::::
