@@ -1,5 +1,6 @@
 project:
   title: "amigo_secreto"
+  output-dir: docs
 
 
 
